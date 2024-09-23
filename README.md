@@ -6,7 +6,7 @@
 <p>Follow these steps to set up your project locally:</p>
 <ol>
     <li><strong>Clone the repository</strong>:
-        <pre><code>git clone https://github.com/CodeMaestroRomeo/emailSender.git</code></pre>
+        <pre><code>git clone https://github.com/RomeoManoela/EmailSender.git</code></pre>
     </li>
     <li><strong>Create a virtual environment</strong>:
         <pre><code>python -m venv venv</code></pre>

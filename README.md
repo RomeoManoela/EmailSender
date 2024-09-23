@@ -22,7 +22,7 @@
         </ul>
     </li>
     <li><strong>Install dependencies</strong>:
-        <pre><code>pip install -r requirements.txt</code></pre>
+        <pre><code>pip install django</code></pre>
     </li>
     <li><strong>Set up your SMTP configuration</strong> in the settings file.</li>
     <li><strong>Run migrations</strong>:
